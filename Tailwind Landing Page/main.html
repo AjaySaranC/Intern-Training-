@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tailwind CSS with CDN</title>
+  
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body class="bg-gray-100">
+    <nav class="bg-yellow-100 p-5 shadow-lg">
+        <div class="container mx-auto flex items-center justify-between">
+            <a href="#" class="text-xl font-bold">My Website</a>
+            <div class="hidden md:flex space-x-10">
+                <a href="#Home" class="text-gray-800 text-lg">Home</a>
+                <a href="#about" class="text-gray-800 text-lg">About</a>
+                <a href="#footer" class="text-gray-800 text-lg">Footer</a>
+            </div>
+            <div class="md:hidden">
+                <button id="menu-btn" class="text-gray-800 focus:outline-none">
+                    <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <div id="mobile-menu" class="hidden md:hidden">
+            <a href="#Home" class="block text-gray-800 text-lg px-5 py-3">Home</a>
+            <a href="#about" class="block text-gray-800 text-lg px-5 py-3">About</a>
+            <a href="#footer" class="block text-gray-800 text-lg px-5 py-3">Footer</a>
+        </div>
+    </nav>
+
+    <section id="Home" class="flex flex-col justify-center items-center h-screen">
+        <div class="flex">
+            <h1 class="text-6xl font-bold">Welcome To my Site</h1>
+        </div>
+
+        <p class="max-w-2xl pt-6">
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat in est aliquam, soluta excepturi neque. Assumenda explicabo totam molestiae ullam inventore possimus aperiam. Quia animi reprehenderit repudiandae, quis saepe quos.
+        </p>
+    </section>
+
+    <section id="about">
+        <!-- Adjust the container width with max-w classes -->
+        <div class="container p-4 max-w-5xl mx-auto">
+            <div class="grid grid-cols-3 gap-4">
+                <div class="bg-white p-4 shadow-md rounded-lg">
+                    <img src="salad.jpg" alt="salad" class="object-contain" />
+                    <h2 class="flex justify-center font-semibold">Content-Name</h2>
+                  </div>
+                  <div class="bg-white p-4 shadow-md rounded-lg">
+                    <img src="salad.jpg" alt="salad" class="object-contain" />
+                    <h2 class="flex justify-center font-semibold">Content-Name</h2>
+                  </div>
+                  <div class="bg-white p-4 shadow-md rounded-lg">
+                    <img src="salad.jpg" alt="salad" class="object-contain" />
+                    <h2 class="flex justify-center font-semibold">Content-Name</h2>
+                  </div>
+                  <div class="bg-white p-4 shadow-md rounded-lg">
+                    <img src="salad.jpg" alt="salad" class="object-contain" />
+                    <h2 class="flex justify-center font-semibold">Content-Name</h2>
+                  </div>
+                  <div class="bg-white p-4 shadow-md rounded-lg">
+                    <img src="salad.jpg" alt="salad" class="object-contain" />
+                    <h2 class="flex justify-center font-semibold">Content-Name</h2>
+                  </div>
+                  <div class="bg-white p-4 shadow-md rounded-lg">
+                    <img src="salad.jpg" alt="salad" class="object-contain" />
+                    <h2 class="flex justify-center font-semibold">Content-Name</h2>
+                  </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="footer" class="bg-gray-400 p-5 mt-5">
+        <div class="container ">
+            <div class="flex items-center justify-center"> 
+                <i class="fa-regular fa-copyright text-xl mr-2"></i>
+                <h1 class="text-2xl">All rights are reserved</h1>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        const menuBtn = document.getElementById('menu-btn');
+        const mobileMenu = document.getElementById('mobile-menu');
+
+        menuBtn.addEventListener('click', () => {
+            mobileMenu.classList.toggle('hidden');
+        });
+    </script>
+</body>
+</html>
