@@ -1,0 +1,155 @@
+{"level":"error","message":"Validation errors: [{\"type\":\"field\",\"value\":\"gf\",\"msg\":\"Username must be at least 3 characters long\",\"path\":\"username\",\"location\":\"body\"}]","timestamp":"2024-08-23T09:59:08.651Z"}
+{"level":"error","message":"Validation errors: [{\"type\":\"field\",\"value\":\"gf\",\"msg\":\"Username must be at least 3 characters long\",\"path\":\"username\",\"location\":\"body\"}]","timestamp":"2024-08-23T10:19:29.343Z"}
+{"level":"error","message":"Validation errors: [{\"type\":\"field\",\"value\":\"\",\"msg\":\"Invalid email address\",\"path\":\"email\",\"location\":\"body\"}]","timestamp":"2024-08-26T06:27:40.557Z"}
+{"level":"error","message":"Validation errors: [{\"type\":\"field\",\"msg\":\"Invalid email address\",\"path\":\"email\",\"location\":\"body\"}]","timestamp":"2024-08-26T06:27:52.871Z"}
+{"level":"error","message":"Validation errors: [{\"type\":\"field\",\"value\":\"\",\"msg\":\"Invalid email address\",\"path\":\"email\",\"location\":\"body\"}]","timestamp":"2024-08-26T06:28:03.899Z"}
+{"level":"error","message":"Validation errors: [{\"type\":\"field\",\"value\":\"\",\"msg\":\"Invalid email address\",\"path\":\"email\",\"location\":\"body\"}]","timestamp":"2024-08-26T06:28:07.008Z"}
+{"level":"error","message":"Error creating restaurant: Creation failed","timestamp":"2024-08-26T07:30:02.115Z"}
+{"level":"error","message":"Error creating restaurant: Validation failed: Name is required","timestamp":"2024-08-26T07:30:02.136Z"}
+{"level":"error","message":"Error creating restaurant: Validation failed: Address is required","timestamp":"2024-08-26T07:30:02.140Z"}
+{"level":"error","message":"Error creating restaurant: Unexpected error","timestamp":"2024-08-26T07:30:02.142Z"}
+{"level":"error","message":"Error fetching restaurants: Fetching failed","timestamp":"2024-08-26T07:30:02.148Z"}
+{"level":"error","message":"Error fetching restaurants: Unexpected error","timestamp":"2024-08-26T07:30:02.155Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T07:35:17.487Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T07:35:17.493Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T07:35:17.495Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T07:35:17.497Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T07:36:10.854Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T07:36:10.860Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T07:36:10.862Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T07:36:10.866Z"}
+{"level":"error","message":"Error fetching orders: Database error","timestamp":"2024-08-30T07:36:10.936Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T07:38:32.368Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T07:38:32.374Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T07:38:32.376Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T07:38:32.378Z"}
+{"level":"error","message":"Error fetching orders: Database error","timestamp":"2024-08-30T07:38:32.451Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T07:40:20.110Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T07:40:20.115Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T07:40:20.117Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T07:40:20.120Z"}
+{"level":"error","message":"Error fetching orders: Database error","timestamp":"2024-08-30T07:40:20.186Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T07:40:50.684Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T07:40:50.689Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T07:40:50.691Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T07:40:50.693Z"}
+{"level":"error","message":"Error fetching orders: Database error","timestamp":"2024-08-30T07:40:50.753Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T07:41:48.397Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T07:41:48.402Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T07:41:48.404Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T07:41:48.407Z"}
+{"level":"error","message":"Error fetching orders: Database error","timestamp":"2024-08-30T07:41:48.466Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T07:42:21.062Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T07:42:21.067Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T07:42:21.069Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T07:42:21.072Z"}
+{"level":"error","message":"Error fetching orders: Database error","timestamp":"2024-08-30T07:42:21.132Z"}
+{"level":"error","message":"Error fetching all orders: Database error","timestamp":"2024-08-30T07:42:21.148Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T07:43:22.337Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T07:43:22.343Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T07:43:22.345Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T07:43:22.348Z"}
+{"level":"error","message":"Error fetching orders: Database error","timestamp":"2024-08-30T07:43:22.410Z"}
+{"level":"error","message":"Error fetching all orders: Database error","timestamp":"2024-08-30T07:43:22.424Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T07:44:05.559Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T07:44:05.566Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T07:44:05.568Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T07:44:05.571Z"}
+{"level":"error","message":"Error fetching orders: Database error","timestamp":"2024-08-30T07:44:05.625Z"}
+{"level":"error","message":"Error fetching all orders: Database error","timestamp":"2024-08-30T07:44:05.641Z"}
+{"level":"error","message":"Error updating order status: Order not found","timestamp":"2024-08-30T07:44:05.645Z"}
+{"level":"error","message":"Error updating order status: Database error","timestamp":"2024-08-30T07:44:05.668Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T07:45:19.281Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T07:45:19.287Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T07:45:19.289Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T07:45:19.292Z"}
+{"level":"error","message":"Error fetching orders: Database error","timestamp":"2024-08-30T07:45:19.356Z"}
+{"level":"error","message":"Error fetching all orders: Database error","timestamp":"2024-08-30T07:45:19.373Z"}
+{"level":"error","message":"Error updating order status: Order not found","timestamp":"2024-08-30T07:45:19.377Z"}
+{"level":"error","message":"Error updating order status: Database error","timestamp":"2024-08-30T07:45:19.379Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T07:45:56.284Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T07:45:56.290Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T07:45:56.292Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T07:45:56.294Z"}
+{"level":"error","message":"Error fetching orders: Database error","timestamp":"2024-08-30T07:45:56.356Z"}
+{"level":"error","message":"Error fetching all orders: Database error","timestamp":"2024-08-30T07:45:56.379Z"}
+{"level":"error","message":"Error updating order status: Order not found","timestamp":"2024-08-30T07:45:56.384Z"}
+{"level":"error","message":"Error updating order status: Database error","timestamp":"2024-08-30T07:45:56.386Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T07:55:12.295Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T07:55:12.299Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T07:55:12.301Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T07:55:12.303Z"}
+{"level":"error","message":"Error fetching orders: Database error","timestamp":"2024-08-30T07:55:12.346Z"}
+{"level":"error","message":"Error fetching all orders: Database error","timestamp":"2024-08-30T07:55:12.384Z"}
+{"level":"error","message":"Error updating order status: Order not found","timestamp":"2024-08-30T07:55:12.387Z"}
+{"level":"error","message":"Error updating order status: Database error","timestamp":"2024-08-30T07:55:12.389Z"}
+{"level":"error","message":"Error fetching food items: Invalid restaurantId","timestamp":"2024-08-30T10:18:42.220Z"}
+{"level":"error","message":"Error fetching food items: Invalid restaurantId","timestamp":"2024-08-30T10:18:48.637Z"}
+{"level":"error","message":"Error fetching food items: Invalid restaurantId","timestamp":"2024-08-30T10:18:53.182Z"}
+{"level":"error","message":"Error fetching food items: Invalid restaurantId","timestamp":"2024-08-30T10:18:59.161Z"}
+{"level":"error","message":"Error fetching food items: Invalid restaurantId","timestamp":"2024-08-30T10:20:26.603Z"}
+{"level":"error","message":"Error fetching food items: Invalid restaurantId","timestamp":"2024-08-30T10:21:09.617Z"}
+{"level":"error","message":"Error fetching food items: Invalid restaurantId","timestamp":"2024-08-30T10:22:42.386Z"}
+{"level":"error","message":"Error fetching food items: Invalid restaurantId","timestamp":"2024-08-30T10:25:20.093Z"}
+{"level":"error","message":"Error fetching food items: number is not defined","timestamp":"2024-08-30T10:28:44.318Z"}
+{"level":"error","message":"Error fetching food items: number is not defined","timestamp":"2024-08-30T10:30:20.705Z"}
+{"level":"error","message":"Error creating order: delivery_amount is not defined","timestamp":"2024-08-30T10:36:37.562Z"}
+{"level":"error","message":"Error creating order: delivery_amount is not defined","timestamp":"2024-08-30T10:36:37.564Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T11:01:05.247Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T11:01:05.250Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T11:01:05.251Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T11:01:05.252Z"}
+{"level":"error","message":"Error fetching orders: Database error","timestamp":"2024-08-30T11:01:05.277Z"}
+{"level":"error","message":"Error fetching all orders: Database error","timestamp":"2024-08-30T11:01:05.297Z"}
+{"level":"error","message":"Error updating order status: Order not found","timestamp":"2024-08-30T11:01:05.299Z"}
+{"level":"error","message":"Error updating order status: Database error","timestamp":"2024-08-30T11:01:05.300Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T11:03:33.675Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T11:03:33.678Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T11:03:33.679Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T11:03:33.683Z"}
+{"level":"error","message":"Error fetching orders: Database error","timestamp":"2024-08-30T11:03:33.711Z"}
+{"level":"error","message":"Error fetching all orders: Database error","timestamp":"2024-08-30T11:03:33.722Z"}
+{"level":"error","message":"Error updating order status: Order not found","timestamp":"2024-08-30T11:03:33.724Z"}
+{"level":"error","message":"Error updating order status: Database error","timestamp":"2024-08-30T11:03:33.725Z"}
+{"level":"error","message":"Error fetching orders: WHERE parameter \"userId\" has invalid \"undefined\" value","timestamp":"2024-08-30T11:06:14.628Z"}
+{"level":"error","message":"Error fetching user orders: WHERE parameter \"userId\" has invalid \"undefined\" value","timestamp":"2024-08-30T11:06:14.629Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T11:08:13.211Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T11:08:13.214Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T11:08:13.215Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T11:08:13.217Z"}
+{"level":"error","message":"Error fetching orders: Database error","timestamp":"2024-08-30T11:08:13.247Z"}
+{"level":"error","message":"Error fetching all orders: Database error","timestamp":"2024-08-30T11:08:13.271Z"}
+{"level":"error","message":"Error updating order status: Order not found","timestamp":"2024-08-30T11:08:13.274Z"}
+{"level":"error","message":"Error updating order status: Database error","timestamp":"2024-08-30T11:08:13.276Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T11:10:48.690Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T11:10:48.693Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T11:10:48.694Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T11:10:48.695Z"}
+{"level":"error","message":"Error fetching orders: Database error","timestamp":"2024-08-30T11:10:48.721Z"}
+{"level":"error","message":"Error fetching all orders: Database error","timestamp":"2024-08-30T11:10:48.734Z"}
+{"level":"error","message":"Error updating order status: Order not found","timestamp":"2024-08-30T11:10:48.736Z"}
+{"level":"error","message":"Error updating order status: Database error","timestamp":"2024-08-30T11:10:48.737Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T11:12:59.168Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T11:12:59.171Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T11:12:59.173Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T11:12:59.174Z"}
+{"level":"error","message":"Error fetching orders: Database error","timestamp":"2024-08-30T11:12:59.205Z"}
+{"level":"error","message":"Error fetching all orders: Database error","timestamp":"2024-08-30T11:12:59.219Z"}
+{"level":"error","message":"Error updating order status: Order not found","timestamp":"2024-08-30T11:12:59.221Z"}
+{"level":"error","message":"Error updating order status: Database error","timestamp":"2024-08-30T11:12:59.222Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T11:13:40.381Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T11:13:40.385Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T11:13:40.386Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T11:13:40.387Z"}
+{"level":"error","message":"Error fetching orders: Database error","timestamp":"2024-08-30T11:13:40.419Z"}
+{"level":"error","message":"Error fetching all orders: Database error","timestamp":"2024-08-30T11:13:40.441Z"}
+{"level":"error","message":"Error updating order status: Order not found","timestamp":"2024-08-30T11:13:40.444Z"}
+{"level":"error","message":"Error updating order status: Database error","timestamp":"2024-08-30T11:13:40.445Z"}
+{"level":"error","message":"Error creating order: User with id 1 not found","timestamp":"2024-08-30T11:22:52.072Z"}
+{"level":"error","message":"Error creating order: Restaurant with id 1 not found","timestamp":"2024-08-30T11:22:52.078Z"}
+{"level":"error","message":"Error creating order: Food item with id 1 not found","timestamp":"2024-08-30T11:22:52.080Z"}
+{"level":"error","message":"Error creating order: Database error","timestamp":"2024-08-30T11:22:52.082Z"}
+{"level":"error","message":"Error fetching orders: Database error","timestamp":"2024-08-30T11:22:52.145Z"}
+{"level":"error","message":"Error fetching all orders: Database error","timestamp":"2024-08-30T11:22:52.161Z"}
+{"level":"error","message":"Error updating order status: Order not found","timestamp":"2024-08-30T11:22:52.165Z"}
+{"level":"error","message":"Error updating order status: Database error","timestamp":"2024-08-30T11:22:52.168Z"}
